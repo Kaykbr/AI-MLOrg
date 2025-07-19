@@ -1,4 +1,4 @@
-# 🚀 Plano de Ação - Portfólio Channels IA
+# 🚀 Plano de Ação - Portfólio Profissional IA
 
 ## ✅ **CONCLUÍDO**
 
@@ -6,14 +6,14 @@
 - [x] README principal profissional
 - [x] Organização de pastas estratégica
 - [x] Templates para cada seção
-- [x] Guia estratégico para o formulário
+- [x] Guia estratégico para candidaturas
 - [x] Exemplo de projeto documentado
 
 ## 📋 **PRÓXIMOS PASSOS PRIORITÁRIOS**
 
-### **1. URGENTE - Antes de enviar a candidatura (1-2 dias)**
+### **1. URGENTE - Antes de candidaturas (1-2 dias)**
 
-#### **📝 Completar o Formulário**
+#### **📝 Preparar Apresentação**
 - [ ] Usar o guia estratégico criado
 - [ ] Redigir respostas destacando experiências reais
 - [ ] Revisar e ajustar o tom para soar autêntico
@@ -54,10 +54,10 @@
 - Mostre evolução ao longo do tempo
 - Seja transparente sobre desafios e aprendizados
 
-### **2. Foque na Aplicação Educacional**
-- Todos os projetos devem ter conexão com educação
-- Destaque como a IA pode melhorar o aprendizado
-- Mostre empatia com dores de estudantes/educadores
+### **2. Foque na Aplicação Empresarial**
+- Todos os projetos devem ter conexão com valor de negócio
+- Destaque como a IA pode melhorar processos e resultados
+- Mostre empatia com dores empresariais e desafios tecnológicos
 
 ### **3. Demonstre Execução**
 - Prefira projetos funcionais a ideias apenas
@@ -66,16 +66,16 @@
 
 ## 📞 **PREPARAÇÃO PARA POSSÍVEL ENTREVISTA**
 
-### **Estude a Channels**
-- [ ] Pesquisar fundadores no LinkedIn
+### **Estude a Empresa**
+- [ ] Pesquisar fundadores/líderes no LinkedIn
 - [ ] Analisar conteúdo das redes sociais
 - [ ] Entender modelo de negócio
 - [ ] Identificar principais concorrentes
 
 ### **Prepare Respostas**
-- [ ] "Por que IA na educação?"
+- [ ] "Por que IA nos negócios?"
 - [ ] "Qual projeto você mais tem orgulho?"
-- [ ] "Como você vê o futuro da educação?"
+- [ ] "Como você vê o futuro da IA?"
 - [ ] "Qual seria sua primeira contribuição aqui?"
 
 ## 🚨 **DICAS IMPORTANTES**
@@ -90,7 +90,7 @@
 - Seja autêntico e mostre personalidade
 - Conecte cada projeto com valor real
 - Use linguagem acessível, não apenas técnica
-- Inclua sua visão pessoal sobre IA e educação
+- Inclua sua visão pessoal sobre IA e transformação digital
 
 ## 📈 **MÉTRICAS DE SUCESSO**
 
@@ -101,7 +101,7 @@
 - [ ] Links funcionando perfeitamente
 
 ### **Candidatura**
-- [ ] Formulário enviado com respostas estratégicas
+- [ ] Apresentação enviada com respostas estratégicas
 - [ ] Link do portfólio incluído
 - [ ] Follow-up planejado se necessário
 
@@ -117,9 +117,9 @@ Seu grande diferencial deve ser mostrar que você:
 
 ## 🚀 **CALL TO ACTION**
 
-**HOJE:** Complete o formulário usando o guia estratégico
+**HOJE:** Prepare sua apresentação usando o guia estratégico
 **ESTA SEMANA:** Adicione certificados e finalize pelo menos 1 projeto
-**PRÓXIMA SEMANA:** Refine tudo e envie a candidatura
+**PRÓXIMA SEMANA:** Refine tudo e candidate-se às oportunidades
 
 ---
 

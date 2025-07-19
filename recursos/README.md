@@ -17,7 +17,7 @@ Esta pasta contém materiais de referência, templates e recursos úteis para o 
 ### 💡 Ideias e Inspirações
 - `ideias-projetos.md` - Banco de ideias para futuros projetos
 - `trends-ia.md` - Tendências atuais em IA para acompanhar
-- `oportunidades-educacao.md` - Oportunidades de IA na educação
+- `oportunidades-negocio.md` - Oportunidades de IA nos negócios
 
 ## 🎯 Objetivo
 

@@ -12,19 +12,19 @@ Esta seção demonstra minha expertise em prompt engineering e automações com 
 
 ## 📁 Projetos
 
-### 🔥 Projeto Educacional: Assistant de Estudos Personalizado
+### 🔥 Projeto de Produtividade: Assistant Inteligente de Produtividade
 **Status:** 🔄 Em desenvolvimento
-**Descrição:** Sistema de prompts para criar planos de estudo personalizados usando ChatGPT
+**Descrição:** Sistema de prompts para criar planos de trabalho personalizados usando ChatGPT
 **Arquivos:** `assistant-estudos/`
 
-### 💡 Gerador de Conteúdo Educacional
+### 💡 Gerador de Conteúdo Inteligente
 **Status:** 🔄 Em planejamento
-**Descrição:** Automação para criar materiais didáticos adaptados a diferentes níveis
+**Descrição:** Automação para criar materiais adaptados a diferentes contextos e públicos
 **Arquivos:** `gerador-conteudo/`
 
-### 🎪 Chatbot para Suporte Educacional
+### 🎪 Chatbot para Suporte Automatizado
 **Status:** 🔄 Em planejamento
-**Descrição:** Bot inteligente para responder dúvidas de alunos
+**Descrição:** Bot inteligente para responder dúvidas e dar suporte aos usuários
 **Arquivos:** `chatbot-suporte/`
 
 ## 📝 Template de Projeto
@@ -42,10 +42,10 @@ projeto-nome/
 
 ## 🚀 Próximos Projetos
 
-- [ ] Sistema de avaliação automática
-- [ ] Gerador de exercícios adaptativos
-- [ ] Assistant para criação de videoaulas
-- [ ] Bot de gamificação educacional
+- [ ] Sistema de análise de sentimentos automatizada
+- [ ] Gerador de relatórios inteligentes
+- [ ] Assistant para criação de apresentações
+- [ ] Bot de automação de tarefas
 
 ---
 

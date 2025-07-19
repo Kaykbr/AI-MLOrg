@@ -1,27 +1,27 @@
-# 🤖 Assistant de Estudos Personalizado
+# 🤖 Assistant Inteligente de Produtividade
 
 > **Status:** 🔄 Em desenvolvimento  
-> **Categoria:** ChatGPT + Educação  
+> **Categoria:** ChatGPT + Automação  
 > **Dificuldade:** Intermediário  
 
 ## 📋 **Visão Geral**
 
-Sistema inteligente de prompts que utiliza ChatGPT para criar planos de estudo personalizados baseados no perfil, objetivos e disponibilidade do estudante.
+Sistema inteligente de prompts que utiliza ChatGPT para criar planos de trabalho personalizados baseados no perfil, objetivos e disponibilidade do usuário.
 
 ## 🎯 **Problema Resolvido**
 
-Muitos estudantes têm dificuldade em:
-- Organizar um plano de estudos eficiente
-- Adaptar o conteúdo ao seu ritmo de aprendizado
-- Manter motivação e foco nos estudos
-- Priorizar tópicos por relevância e dificuldade
+Muitos profissionais têm dificuldade em:
+- Organizar um plano de trabalho eficiente
+- Adaptar tarefas ao seu ritmo e prioridades
+- Manter motivação e foco nas atividades
+- Priorizar tarefas por relevância e urgência
 
 ## 💡 **Solução Proposta**
 
 Um conjunto de prompts especializados que:
-1. **Analisa o perfil do estudante** (nível, objetivos, tempo disponível)
-2. **Cria cronograma personalizado** baseado em metodologias comprovadas
-3. **Gera material de apoio** adaptado ao estilo de aprendizagem
+1. **Analisa o perfil do usuário** (nível, objetivos, tempo disponível)
+2. **Cria cronograma personalizado** baseado em metodologias de produtividade
+3. **Gera material de apoio** adaptado ao estilo de trabalho
 4. **Monitora progresso** e ajusta o plano conforme necessário
 
 ## 🛠️ **Tecnologias Utilizadas**
@@ -34,7 +34,7 @@ Um conjunto de prompts especializados que:
 ## 📂 **Estrutura do Projeto**
 
 ```
-assistant-estudos/
+assistant-produtividade/
 ├── README.md (este arquivo)
 ├── prompts/
 │   ├── analise-perfil.md
@@ -42,9 +42,9 @@ assistant-estudos/
 │   ├── geracao-conteudo.md
 │   └── acompanhamento.md
 ├── examples/
-│   ├── caso-vestibular.md
-│   ├── caso-concurso.md
-│   └── caso-certificacao.md
+│   ├── caso-freelancer.md
+│   ├── caso-startup.md
+│   └── caso-corporativo.md
 └── results/
     ├── screenshots/
     └── testimonials/
@@ -55,10 +55,10 @@ assistant-estudos/
 ### **Passo 1: Análise de Perfil**
 ```
 Use o prompt de análise-perfil.md para coletar:
-- Objetivo de estudo
+- Objetivo profissional
 - Tempo disponível
-- Nível atual de conhecimento
-- Estilo de aprendizagem preferido
+- Nível atual de produtividade
+- Estilo de trabalho preferido
 - Recursos disponíveis
 ```
 
@@ -66,18 +66,18 @@ Use o prompt de análise-perfil.md para coletar:
 ```
 Com base no perfil, use criacao-cronograma.md para gerar:
 - Plano semanal detalhado
-- Priorização de tópicos
-- Métodos de estudo recomendados
+- Priorização de tarefas
+- Métodos de trabalho recomendados
 - Marcos de progresso
 ```
 
 ### **Passo 3: Geração de Material**
 ```
 Use geracao-conteudo.md para criar:
-- Resumos personalizados
-- Exercícios práticos
-- Flashcards
-- Simulados
+- Templates personalizados
+- Checklists práticos
+- Lembretes automáticos
+- Relatórios de progresso
 ```
 
 ### **Passo 4: Acompanhamento**
@@ -85,44 +85,44 @@ Use geracao-conteudo.md para criar:
 Use acompanhamento.md para:
 - Revisar progresso
 - Ajustar cronograma
-- Motivar o estudante
+- Motivar o usuário
 - Sugerir melhorias
 ```
 
 ## 📊 **Resultados Esperados**
 
-- ⬆️ **+40%** na eficiência dos estudos
+- ⬆️ **+40%** na eficiência do trabalho
 - ⏰ **Redução de 60%** no tempo de planejamento
-- 🎯 **Maior foco** em tópicos prioritários
-- 📈 **Aumento da motivação** através de metas claras
+- 🎯 **Maior foco** em tarefas prioritárias
+- 📈 **Aumento da produtividade** através de metas claras
 
 ## 🎮 **Demonstração**
 
 ### **Entrada (Exemplo):**
 ```
-Estudante: João, 22 anos
-Objetivo: Concurso público (nível médio)
-Tempo: 3 horas/dia, 6 dias/semana
-Prazo: 6 meses
-Matérias: Português, Matemática, Informática, Atualidades
-Nível: Iniciante em Matemática, Intermediário nas demais
+Usuário: João, 28 anos, Freelancer
+Objetivo: Organizar projetos múltiplos
+Tempo: 6 horas/dia, 5 dias/semana
+Prazo: Melhorar produtividade em 2 meses
+Áreas: Design, Marketing, Gestão, Cliente
+Nível: Intermediário em gestão, Avançado em design
 ```
 
 ### **Saída Gerada:**
 ```
-📚 PLANO DE ESTUDOS PERSONALIZADO - JOÃO
+� PLANO DE PRODUTIVIDADE PERSONALIZADO - JOÃO
 
-🎯 META: Aprovação em concurso público em 6 meses
-⏰ DEDICAÇÃO: 18h/semana (3h/dia, 6 dias)
+🎯 META: Aumentar eficiência em projetos múltiplos
+⏰ DEDICAÇÃO: 30h/semana (6h/dia, 5 dias)
 
 📅 CRONOGRAMA SEMANAL:
-Segunda: Matemática (2h) + Português (1h)
-Terça: Informática (2h) + Revisão (1h)
+Segunda: Design (4h) + Planejamento (2h)
+Terça: Marketing (3h) + Cliente (3h)
 ...
 
 🔥 PRIORIDADES MENSAIS:
-Mês 1-2: Base de Matemática + Português fundamental
-Mês 3-4: Aprofundamento + Informática
+Mês 1: Organização de processos + Templates
+Mês 2: Automações + Otimizações
 ...
 ```
 
@@ -136,11 +136,11 @@ Mês 3-4: Aprofundamento + Informática
 
 ## 💬 **Feedback dos Usuários**
 
-> *"Consegui organizar meus estudos de forma muito mais eficiente!"*  
-> — Maria, estudante de medicina
+> *"Consegui organizar minha rotina de trabalho de forma muito mais eficiente!"*  
+> — Maria, freelancer
 
-> *"O cronograma personalizado fez toda a diferença na minha preparação."*  
-> — Carlos, concurseiro
+> *"O sistema personalizado fez toda a diferença na minha produtividade."*  
+> — Carlos, empreendedor
 
 ## 🤝 **Como Contribuir**
 
@@ -158,8 +158,8 @@ Para dúvidas ou colaborações:
 
 ---
 
-*"A educação personalizada é o futuro. Este projeto é um pequeno passo nessa direção."* 🚀
+*"A automação inteligente é o futuro da produtividade. Este projeto é um pequeno passo nessa direção."* 🚀
 
 ---
 
-**🏷️ Tags:** #IA #Educação #ChatGPT #PromptEngineering #Personalização #Estudos
+**🏷️ Tags:** #IA #Produtividade #ChatGPT #PromptEngineering #Personalização #Automação

@@ -5,16 +5,16 @@ Aqui documento meus experimentos e testes com diferentes ferramentas de IA gener
 ## 🎨 Ferramentas Exploradas
 
 ### **Geração de Imagens**
-- **MidJourney** - Criação de arte e ilustrações
-- **Leonardo AI** - Imagens para conteúdo educacional
-- **Freepik AI** - Assets para materiais didáticos
+- **MidJourney** - Criação de arte e ilustrações profissionais
+- **Leonardo AI** - Imagens para conteúdo corporativo
+- **Freepik AI** - Assets para materiais de marketing
 
 ### **Geração de Áudio**
-- **ElevenLabs** - Voiceovers para videoaulas
-- **Murf** - Narração de apresentações
+- **ElevenLabs** - Voiceovers para apresentações
+- **Murf** - Narração de vídeos corporativos
 
 ### **Geração de Vídeo**
-- **Runway** - Criação de vídeos educacionais
+- **Runway** - Criação de vídeos promocionais
 - **Pika** - Animações e motion graphics
 
 ### **Produtividade**
@@ -23,19 +23,19 @@ Aqui documento meus experimentos e testes com diferentes ferramentas de IA gener
 
 ## 🧪 Experimentos Realizados
 
-### 🎨 Criação de Material Didático Visual
+### 🎨 Criação de Material Visual Corporativo
 **Ferramenta:** MidJourney + Leonardo AI
-**Objetivo:** Criar ilustrações para explicar conceitos complexos
+**Objetivo:** Criar ilustrações para explicar conceitos de negócio
 **Resultado:** [Em desenvolvimento]
 
-### 🎙️ Narração Automática de Videoaulas
+### 🎙️ Narração Automática de Apresentações
 **Ferramenta:** ElevenLabs
-**Objetivo:** Transformar texto em áudio natural para cursos online
+**Objetivo:** Transformar texto em áudio natural para apresentações corporativas
 **Resultado:** [Em desenvolvimento]
 
-### 🎬 Vídeos Explicativos Automatizados
+### 🎬 Vídeos Promocionais Automatizados
 **Ferramenta:** Runway + Pika
-**Objetivo:** Criar vídeos curtos para redes sociais educativas
+**Objetivo:** Criar vídeos curtos para marketing digital
 **Resultado:** [Em desenvolvimento]
 
 ### 📝 Geração de Conteúdo Adaptativo
@@ -45,7 +45,7 @@ Aqui documento meus experimentos e testes com diferentes ferramentas de IA gener
 
 ## 📊 Análise Comparativa de Ferramentas
 
-| Ferramenta | Qualidade | Facilidade | Custo | Educação |
+| Ferramenta | Qualidade | Facilidade | Custo | Negócios |
 |------------|-----------|------------|-------|----------|
 | MidJourney | ⭐⭐⭐⭐⭐ | ⭐⭐⭐ | ⭐⭐⭐ | ⭐⭐⭐⭐ |
 | ElevenLabs | ⭐⭐⭐⭐⭐ | ⭐⭐⭐⭐ | ⭐⭐⭐ | ⭐⭐⭐⭐⭐ |
@@ -54,10 +54,10 @@ Aqui documento meus experimentos e testes com diferentes ferramentas de IA gener
 
 ## 🚀 Projetos Futuros
 
-- [ ] **Curso Completo Gerado por IA** - Combinando todas as ferramentas
-- [ ] **Avatar Virtual para Ensino** - Usando tecnologias de deepfake ético
-- [ ] **Game Educativo com IA** - Criando experiências interativas
-- [ ] **Assistente de Estudos Multimodal** - Texto, áudio, imagem e vídeo
+- [ ] **Campanha Completa Gerada por IA** - Combinando todas as ferramentas
+- [ ] **Avatar Virtual para Apresentações** - Usando tecnologias de deepfake ético
+- [ ] **Sistema de Marketing Automatizado** - Criando campanhas inteligentes
+- [ ] **Assistant Multimodal para Negócios** - Texto, áudio, imagem e vídeo
 
 ## 💡 Insights e Aprendizados
 
